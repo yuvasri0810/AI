@@ -1,0 +1,3 @@
+import calendar
+b=calendar.isleap(2024)
+print(b)
