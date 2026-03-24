@@ -1,0 +1,3 @@
+import calendar
+b = calendar.month(2023,6)
+print(b)
